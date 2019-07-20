@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VLiveDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "https://channels.vlive.tv/EDBF"
+    }
+  }
+}
