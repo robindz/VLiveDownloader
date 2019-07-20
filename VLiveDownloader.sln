@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLiveDownloader", "VLiveDownloader.csproj", "{F814F006-371F-482D-B4EF-B0324C08627A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F814F006-371F-482D-B4EF-B0324C08627A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F814F006-371F-482D-B4EF-B0324C08627A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F814F006-371F-482D-B4EF-B0324C08627A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F814F006-371F-482D-B4EF-B0324C08627A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CB627B-ECD5-4C69-BE2F-F8DA1A237D41}
+	EndGlobalSection
+EndGlobal
